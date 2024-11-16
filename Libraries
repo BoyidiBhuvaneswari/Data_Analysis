@@ -1,17 +1,7 @@
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/employee-data-analysis.git
-cd employee-data-analysis
-Install required Python libraries:
-
+Required Python Libraries
+Pandas: For data manipulation and analysis.
 pip install pandas
-Place the employee.csv file in the project directory.
 
-Usage
-Run the script:
-
-python employee_analysis.py
-The output will be displayed in the console, showing various analysis results such as average salary, department-wise breakdown, and top-paid employees.
 
 Output Examples
 Average Salary:
